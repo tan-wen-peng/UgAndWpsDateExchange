@@ -14,6 +14,6 @@
 - NX Open C++ 插件（中间层）：把 WPS 表格伪装成 `Excel.Application` COM 服务端，
   并支持电子表格导入/导出、环境诊断、COM 兼容设置与自检；
 - 兼容 NX 12 及以上（x64），以 NX 12.0 SDK 编译（VS2017 v141 / C++17）；
-- 已通过 32 项单元测试（2025 年构建环境实测通过）。
+- 已通过 32 项单元测试（构建环境实测通过）。
 
 详见 [UgAndWpsDateExchange/README.md](UgAndWpsDateExchange/README.md) 与其中的 docs 目录。
