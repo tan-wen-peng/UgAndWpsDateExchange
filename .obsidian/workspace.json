@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ced6e7beb0abc1a8",
+        "id": "65e08620543c868f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9fb6190fb4015f",
+            "id": "ba4377bb7c3a74a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "UgAndWpsDateExchange/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,6 +188,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cd9fb6190fb4015f",
-  "lastOpenFiles": []
+  "active": "ba4377bb7c3a74a2",
+  "lastOpenFiles": [
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchange/Release/UgAndWps.19045B09.tlog/link-cvtres.write.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchange/Release/UgAndWps.19045B09.tlog/link-cvtres.read.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchange/Release/UgAndWps.19045B09.tlog/link-rc.write.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchange/Release/UgAndWps.19045B09.tlog/link-rc.read.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchangeTests/Release/UgAndWps.7F4C1A2B.tlog/link-cvtres.write.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchangeTests/Release/UgAndWps.7F4C1A2B.tlog/link-cvtres.read.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchangeTests/Release/UgAndWps.7F4C1A2B.tlog/link-rc.write.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchangeTests/Release/UgAndWps.7F4C1A2B.tlog/link-rc.read.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchange/Release/UgAndWps.19045B09.tlog/CL.2516.read.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchangeTests/Release/UgAndWps.7F4C1A2B.tlog/CL.7860.read.1.tlog",
+    "UgAndWpsDateExchange/out/obj/UgAndWpsDateExchangeTests/Release/UgAndWps.7F4C1A2B.tlog/CL.22300.read.1.tlog",
+    "README.md",
+    "UgAndWpsDateExchange/docs/architecture.md",
+    "UgAndWpsDateExchange/README.md",
+    "未命名.md"
+  ]
 }

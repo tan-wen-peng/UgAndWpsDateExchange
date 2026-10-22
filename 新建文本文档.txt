@@ -1,0 +1,9 @@
+===== UgAndWpsDateExchange 自检 =====
+passed=36 failed=0
+自检全部通过
+使用供应方: WPS Spreadsheets (WPS Office) (D:\软件\Kingsoft\WPS Office\12.1.0.28043\office6\et.exe)
+打开工作簿: C:\Users\Administrator\Desktop\新建 XLSX 工作表.xlsx (供应方: WPS Spreadsheets (WPS Office))
+会话日志: C:\Users\ADMINI~1\AppData\Local\Temp\Administrator194046e5.syslog
+---- 与插件/电子表格相关的日志行（最多 60 条）----
+    UGII_MDP_AUTOMATION_EXCEPTION_FILE D:\Program Files\Siemens\NX 12.0\ugii\custom_mdp_exceptions.dat
+刚刚还崩溃了，做好版本管理。
